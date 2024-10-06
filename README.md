@@ -20,10 +20,10 @@ Outputs:
  the Checker created to sort the list and print the players ordered according to the rules.
 
 ### Example input:
-![imagens/Entrada1.png](imagens/Entrada1.png)
+![imagens/entrada1.png](imagens/entrada1.png)
 
 ### Example output:
-![imagens/Entrada1.png](imagens/Entrada1.png)
+![imagens/entrada1.png](imagens/entrada1.png)
 
 
 
