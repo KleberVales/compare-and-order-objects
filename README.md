@@ -23,7 +23,7 @@ Outputs:
 ![imagens/entrada1.png](imagens/entrada1.png)
 
 ### Example output:
-![imagens/entrada1.png](imagens/entrada1.png)
+![imagens/entrada2.png](imagens/entrada2.png)
 
 
 
